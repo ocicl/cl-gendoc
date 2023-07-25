@@ -1,0 +1,10 @@
+* cl-gendoc
+
+Simple modular documentation builder for with package reference generator
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/rpav/cl-gendoc.git   |
+| commit  | c8fed7d  |
+| systems | cl-gendoc |
+|---------+-------------------------------------------|
+
